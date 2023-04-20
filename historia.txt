@@ -1,0 +1,2 @@
+esta es la prueba para usar git
+y todas las propiedades
